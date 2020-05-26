@@ -1,0 +1,42 @@
+Basic linux commands
+pwd:present working directory
+ls :list of files and directories
+ls-a: hidden files and folders of current directory
+clear:used to clear the screen
+cd:change the directory
+cd .. :one step backward
+cd:directly goes to parent path
+mkdir:make directory
+
+File Management
+touch
+echo
+cat:singleline
+gedit -multiline
+nano-multiline
+rm
+rmdir-remove directory
+
+
+Basic commands of git
+
+git init:initialise
+git status:displays the status
+git add data.txt
+git commit -m "First commit"
+git config --global user.name  ‘name’
+git config --global user.email  ‘email’
+ git log
+
+Sync the data local to server/server to local
+Create folder name same as repository
+Mkdir foldername
+git remote add local-folder-name “git repository address”
+remote command synchronises client and server computer
+Git remote show
+git remote -v
+git push -u aiml
+git push --set-upstream aiml master
+ history
+
+
